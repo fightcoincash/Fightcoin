@@ -16,4 +16,8 @@
 
 - **CEX Lock (30M):** [View Contract](https://app.streamflow.finance/contract/solana/mainnet/46HiWvAGhxDCwFZmtYQTEsuuKmqztyyTHtVwmgg5f9po)
 
-**Total Token Lock: 191 Million**
+- **Investment Lock 1 (30M):** [View Contract](https://app.streamflow.finance/contract/solana/mainnet/5sUb5KJRxtotNFpQky7eeshkk2HVmerGj9bxFEg8Aqia)
+
+- **Investment Lock 2 (10M):** [View Contract](https://app.streamflow.finance/contract/solana/mainnet/7SEjA6XCSVfaoJ7dV5jvNiz8eALJUFc4hsfpyn3NBB5m)
+
+**Total Token Lock: 250.85 Million**
